@@ -1,0 +1,4 @@
+Converting GML script: ${project_dir}\objects\obj_example\Step_0.gml
+Converted description /// @description moveable object
+
+Game speed set to 30

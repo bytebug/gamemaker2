@@ -1,0 +1,24 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Animation Curves","order":1,"path":"folders/Animation Curves.yy",},
+    {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
+    {"name":"Fonts","order":8,"path":"folders/Fonts.yy",},
+    {"name":"Notes","order":13,"path":"folders/Notes.yy",},
+    {"name":"Objects","order":11,"path":"folders/Objects.yy",},
+    {"name":"Particle Systems","order":1,"path":"folders/Particle Systems.yy",},
+    {"name":"Paths","order":5,"path":"folders/Paths.yy",},
+    {"name":"Rooms","order":12,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":6,"path":"folders/Scripts.yy",},
+    {"name":"object","order":1,"path":"folders/Scripts/compatibility/object.yy",},
+    {"name":"Sequences","order":10,"path":"folders/Sequences.yy",},
+    {"name":"Shaders","order":7,"path":"folders/Shaders.yy",},
+    {"name":"Sounds","order":4,"path":"folders/Sounds.yy",},
+    {"name":"Tile Sets","order":3,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":9,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"__global_object_depths","order":2,"path":"scripts/__global_object_depths/__global_object_depths.yy",},
+    {"name":"obj_draw_data","order":1,"path":"objects/obj_draw_data/obj_draw_data.yy",},
+    {"name":"compatibility_report_120423_210155155","order":1,"path":"notes/compatibility_report_120423_210155155/compatibility_report_120423_210155155.yy",},
+  ],
+}

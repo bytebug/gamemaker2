@@ -1,0 +1,12 @@
+Font font_text has been converted to font family Arial (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font_text\font_text.gms1.png
+Converting GML script: ${project_dir}\objects\get_data\Create_0.gml
+Converted description /// @description Get Data
+
+Converting GML script: ${project_dir}\objects\obj_draw_data\Draw_0.gml
+Converted description /// @description draw graph and legends
+
+Game speed set to 30
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'
