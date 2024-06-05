@@ -34,6 +34,7 @@
   },
   "name":"1upIndie-FlappyBird",
   "resources":[
+    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"objDeadZone","path":"objects/objDeadZone/objDeadZone.yy",},},
     {"id":{"name":"objGM","path":"objects/objGM/objGM.yy",},},
     {"id":{"name":"objPipeBottom","path":"objects/objPipeBottom/objPipeBottom.yy",},},
