@@ -1,0 +1,24 @@
+#TO-DOs
+1. fix bg image - done
+2. add GUI menu - done
+3. add sound effects & bg music - done
+4. add current score & high score - done
+5. add high score board - done
+6. revise physics for bird movement - done
+7. add medal display mechanism according to player's score
+
+Jun.04.2024
+ver. 0.1
+1. fixed BG image
+
+Jun.05.2024
+ver. 0.9 - Feature Complete
+
+1. added GUI menu
+2. added SE & BG Music
+3. added current & high score
+4. added high score board
+5. added game over screen
+6. added high score saving system - gamedata.ini file
+7. fixed a bg music glitch (playing same bg music on top of current music being played over)
+

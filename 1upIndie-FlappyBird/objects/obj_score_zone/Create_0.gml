@@ -1,0 +1,1 @@
+hspeed = global.pipe_horizontal_move_speed;

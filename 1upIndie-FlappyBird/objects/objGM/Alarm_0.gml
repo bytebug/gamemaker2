@@ -7,3 +7,7 @@ instance_create_layer(pipe_spawn_x, pipe_spawn_y, "Instances", objPipeBottom);
 
 // spawn top pipe
 instance_create_layer(pipe_spawn_x, pipe_spawn_y - pipe_gap, "Instances", objPipeTop);
+
+// spawn score zone
+
+instance_create_layer(pipe_spawn_x, pipe_spawn_y - (pipe_gap/2), "Instances", obj_score_zone);
