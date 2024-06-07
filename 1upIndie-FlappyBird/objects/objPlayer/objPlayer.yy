@@ -30,7 +30,7 @@
   "physicsStartAwake":true,
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"grv","filters":[],"listItems":[],"multiselect":false,"name":"grv","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.2","varType":0,},
-    {"$GMObjectProperty":"v1","%Name":"jumpPower","filters":[],"listItems":[],"multiselect":false,"name":"jumpPower","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"-3.0","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"jumpPower","filters":[],"listItems":[],"multiselect":false,"name":"jumpPower","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"-2.5","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

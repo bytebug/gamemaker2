@@ -5,7 +5,10 @@
 4. add current score & high score - done
 5. add high score board - done
 6. revise physics for bird movement - done
-7. add medal display mechanism according to player's score
+7. add medal display mechanism according to player's score - done
+8. add menu animation - done
+9. add bird flapping sound effect - done
+10. build for HTML
 
 Jun.04.2024
 ver. 0.1
@@ -22,3 +25,8 @@ ver. 0.9 - Feature Complete
 6. added high score saving system - gamedata.ini file
 7. fixed a bg music glitch (playing same bg music on top of current music being played over)
 
+Jun.07.2024
+1. added medals to high score screen depending on the player's current score
+2. added menu animation
+3. changed bird physics (flapping power)
+4. added flapping sound from 101 audio sound site

@@ -2,6 +2,7 @@
 if(keyboard_check_pressed(vk_space) || mouse_check_button_pressed(mb_left))
 {
 	grv = jumpPower;
+	audio_play_sound(se_flap, 1, false);
 }
 
 y += grv; // make player fall
